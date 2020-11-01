@@ -1,9 +1,6 @@
 # Excursion
 > In this project, I created a web page which advertises a product called “Excursion”. A Codecademy task project.
 
-
-You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. You’ll be proud of yourself when it all comes together!
-
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
