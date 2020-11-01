@@ -1,0 +1,46 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+header, main {
+  text-align: center;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+}
+
+.intro-header {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+.download-link {
+  color: aquamarine;
+}
+
+.desc-title {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.desc-text {
+  font-size: 21px;
+  color: gray;
+}
+
+.phone-icon-container, .phone-vid-container {
+  margin-top: 2em;
+}
